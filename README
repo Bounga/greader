@@ -1,0 +1,75 @@
+= GReader
+
+Wrapper around Google Reader API
+
+== Features
+
+
+== Installation
+
+   gem install rake
+
+== Usage Examples
+
+
+=== More Information
+
+* http://bitbucket.org/Bounga/greader/
+* RDoc
+
+== Development
+
+=== Source Repository
+
+GReader is currently hosted at bitbucket.
+
+The public hg clone URL is
+
+* http://bitbucket.org/Bounga/greader/
+
+=== Running the GReader Test Suite
+
+If you wish to run the unit and functional tests that come with GReader:
+
+     rake
+     
+=== Issues and Bug Reports
+
+Bugs, features requests and other issues can be logged at
+
+* http://bitbucket.org/Bounga/greader/issues/
+
+== Credits
+
+[<b>Martin Catty</b>] For the initial idea.
+
+== License
+
+GReader is available under an MIT-style license.
+
+:include: LICENSE
+
+== Support
+
+The GReader homepage is http://bitbucket.org/Bounga/greader/.
+
+Feel free to submit commits or feature requests. If you send a patch,
+remember to update the corresponding unit tests. Patches without corresponding
+unit tests and explainations will be marked as invalid.
+
+---
+
+= Other stuff
+
+Author::   Nicolas Cavigneaux <nico@bounga.org>
+Requires:: Ruby 1.8.0 or later
+License::  Copyright 2010 by Nicolas Cavigneaux.
+           Released under an MIT-style license. See the LICENSE file
+           included in the distribution.
+
+== Warranty
+
+This software is provided "as is" and without any express or
+implied warranties, including, without limitation, the implied
+warranties of merchantibility and fitness for a particular
+purpose.
